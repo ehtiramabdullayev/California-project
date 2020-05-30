@@ -1,0 +1,5 @@
+# Demo/example
+.DS_Store
+*.zip
+*.gz
+access.log
